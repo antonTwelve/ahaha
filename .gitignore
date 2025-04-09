@@ -1,0 +1,5 @@
+*.exe
+/recover/x64
+/projectV/x64
+/server/x64
+.vs
